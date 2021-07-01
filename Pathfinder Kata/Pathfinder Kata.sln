@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C02FE279-D66E-3B9B-75EC-2D5F9BAD2C78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{31C59FC5-80C0-C405-D872-DA7459B02805}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathfinderKata.Tests", "PathfinderKata.Tests\PathfinderKata.Tests.csproj", "{DBA7EA3C-349B-4818-8E34-98CB2D922DA5}"
 EndProject
 Global
@@ -17,10 +15,6 @@ Global
 		{C02FE279-D66E-3B9B-75EC-2D5F9BAD2C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C02FE279-D66E-3B9B-75EC-2D5F9BAD2C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C02FE279-D66E-3B9B-75EC-2D5F9BAD2C78}.Release|Any CPU.Build.0 = Release|Any CPU
-		{31C59FC5-80C0-C405-D872-DA7459B02805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31C59FC5-80C0-C405-D872-DA7459B02805}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31C59FC5-80C0-C405-D872-DA7459B02805}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31C59FC5-80C0-C405-D872-DA7459B02805}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DBA7EA3C-349B-4818-8E34-98CB2D922DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DBA7EA3C-349B-4818-8E34-98CB2D922DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBA7EA3C-349B-4818-8E34-98CB2D922DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU

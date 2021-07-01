@@ -98,7 +98,6 @@ ipch/
 *.css
 *.xslt
 *.swf
-*.JPG
 *.xnb
 *.ide
 *.nuspec
